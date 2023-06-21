@@ -26,3 +26,14 @@ learning and Deep Learning Models and they Give results In
 terms Of Predictions and classifications, datasets like these are
 difficult to explain.
 
+Different parameter are used in each output.
+In this experiment, we have implemented a ML model with
+learning rate = 0.001 and number of hidden layer for
+encoder is 4 and 5 hidden layer in decoder. Number of input
+layer are 32 each and number of layer are 48 each for
+decoder part.
+
+Below is a plot of Training loss and test loss on x- axis and
+number of epoch count on y-axis.
+![ml](https://github.com/Shailagya/SCMA-using-Machine-Learning/assets/137305675/9a3c90f8-b0db-464f-84fa-ec10ef99bb1f)
+
